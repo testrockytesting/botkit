@@ -14,7 +14,7 @@
     "command-line-args": "^4.0.2",
     "crypto": "0.0.3",
     "express": "^4.15.2",
-    "https-proxy-agent": "^1.0.0",
+    "https-proxy-agent": "^3.0.0",
     "jfs": "^0.2.6",
     "localtunnel": "^1.8.2",
     "md5": "^2.2.1",
