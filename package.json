@@ -16,7 +16,7 @@
     "express": "^4.15.2",
     "https-proxy-agent": "^1.0.0",
     "jfs": "^0.2.6",
-    "localtunnel": "^1.8.2",
+    "localtunnel": "^2.0.1",
     "md5": "^2.2.1",
     "mustache": "^2.3.0",
     "promise": "^7.1.1",
